@@ -7,7 +7,7 @@ Tutorial on how to install osTicket on a cloud virtual machine.
 
 <h1>Environments and Technologies Used</h1>
 
-* Microsoft Azure (Virtual Machines/Compute) <br>
+* [Microsoft Azure](portal.azure.com) (Virtual Machines/Compute) <br>
 * Microsoft Remote Desktop (RDP) <br>
 * Internet Information Services (IIS) <br>
 
@@ -17,7 +17,6 @@ Tutorial on how to install osTicket on a cloud virtual machine.
 
 <h1>Necessary Files</h1>
 
-* [Microsoft Azure](portal.azure.com)
 * [osTicket Installation Files](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) (download these files directly onto your VM's desktop for an easier time)
 
 <h1>Installation Steps</h1>
